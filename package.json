@@ -1,0 +1,23 @@
+{
+  "name": "node_modules_practice",
+  "version": "1.0.0",
+  "description": "- [ ] Fork and clone this repo - [ ] Initialize node in your cloned repo so it becomes a node project!",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JJURIZ/node_modules_practice.git"
+  },
+  "author": "Jeremy Uriz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JJURIZ/node_modules_practice/issues"
+  },
+  "homepage": "https://github.com/JJURIZ/node_modules_practice#readme"
+}
